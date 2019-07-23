@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1479242584 source:f:\univercity\pc_work\c_program\dancer_01_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1479650084 source:f:\univercity\pc_work\project_term1_c\dancer_01_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1479717885 source:f:\univercity\pc_work\project_term1_c\dancer_02_c -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1479726851 source:f:\univercity\pc_work\project_term1_c\dancer_03_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1481370726 source:f:\univercity\pc_work\project_term1_c\dancer_04_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1481383306 source:f:\univercity\pc_work\project_term1_c\dancer_06_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1482431128 source:d:\univercity\pc_work\project_term1_c\dancer_06_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
